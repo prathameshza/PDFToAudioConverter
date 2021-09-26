@@ -14,12 +14,12 @@ The project is just for fun and anyone could read the source code and work on it
 Also a setup File for the application is provided.
 
 
-Credits
-Prathmesh Zade
-Kushal Sathe
-Vridhi Sachdev
-Subodh Dhoke
-Vaishnavi Kale
-Sanskruti Shelar
-Sonal Singh
+Credits:
+Prathmesh Zade/
+Kushal Sathe/
+Vridhi Sachdev/
+Subodh Dhoke/
+Vaishnavi Kale/
+Sanskruti Shelar/
+Sonal Singh/
 Hrushikesh Urde
