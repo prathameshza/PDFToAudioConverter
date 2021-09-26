@@ -11,8 +11,6 @@ Home and Settings icons are from flaticons and I don't own it.
 
 
 The project is just for fun and anyone could read the source code and work on it if interested.
-Also a setup File for the application is provided.
-
 
 Credits:
 Prathmesh Zade/
