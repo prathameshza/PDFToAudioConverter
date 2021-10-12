@@ -3,7 +3,7 @@ A python program to read pdf and convert text to audio
 
 #For Non-Coders -install setup
 
-https://drive.google.com/file/d/1h8efIWpDcCoLib-1Zrq-9qrYmceKmHKd/view
+https://www.dropbox.com/s/pl39vk26kesmvt0/Finale%20Gift%20Setup.rar?dl=0
 
 #Fuctions
 
